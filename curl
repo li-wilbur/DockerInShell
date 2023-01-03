@@ -1,1 +1,1 @@
-docker run cmd.cat/curl curl $@
+docker run --rm cmd.cat/curl curl $@
